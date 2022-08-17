@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_decoration_heroes",
+  "info": {
+    "name": "Hero",
+    "icon": "address-card",
+    "displayName": "Avien",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_chal_chals",
+  "info": {
+    "displayName": "Chal",
+    "icon": "align-left"
+  },
+  "options": {},
+  "attributes": {
+    "Acha": {
+      "type": "string"
+    }
+  }
+}

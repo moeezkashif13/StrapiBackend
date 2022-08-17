@@ -1,0 +1,26 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tests",
+  "info": {
+    "singularName": "test",
+    "pluralName": "tests",
+    "displayName": "Test",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Avien": {
+      "type": "string",
+      "required": true
+    },
+    "Test": {
+      "displayName": "Test",
+      "type": "component",
+      "repeatable": true,
+      "component": "test.test"
+    }
+  }
+}

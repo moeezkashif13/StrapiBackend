@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "news_types",
+  "info": {
+    "singularName": "news-type",
+    "pluralName": "news-types",
+    "displayName": "News Type"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "NewsType": {
+      "type": "string",
+      "required": true
+    },
+    "articles": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::article.article",
+      "mappedBy": "news_type"
+    }
+  }
+}

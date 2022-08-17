@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_each_comment_replies_each_comment_replies",
+  "info": {
+    "displayName": "EachCommentReplies",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Name": {
+      "type": "string",
+      "required": false
+    },
+    "Message": {
+      "type": "string",
+      "required": false
+    },
+    "Email": {
+      "type": "string",
+      "required": false
+    }
+  }
+}

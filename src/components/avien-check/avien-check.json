@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_avien_check_avien_checks",
+  "info": {
+    "displayName": "AvienCheck"
+  },
+  "options": {},
+  "attributes": {
+    "FirstText": {
+      "type": "string"
+    }
+  }
+}

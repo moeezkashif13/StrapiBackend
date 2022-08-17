@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_comments_and_replies_comments_and_replies",
+  "info": {
+    "displayName": "Comments And Replies",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Name": {
+      "type": "string",
+      "required": false
+    },
+    "Email": {
+      "type": "string",
+      "required": false
+    },
+    "Message": {
+      "type": "string"
+    }
+  }
+}

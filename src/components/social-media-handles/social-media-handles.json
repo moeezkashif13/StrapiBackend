@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_social_media_handles_social_media_handles",
+  "info": {
+    "displayName": "Social Media Handles",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Name": {
+      "type": "string",
+      "required": true
+    },
+    "Link": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_avien_checks",
+  "info": {
+    "displayName": "Check",
+    "icon": "address-book",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "ArticleHighlight": {
+      "type": "string"
+    }
+  }
+}

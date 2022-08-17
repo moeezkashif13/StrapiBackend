@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_tab_and_text_tab_and_texts",
+  "info": {
+    "displayName": "TabAndText"
+  },
+  "options": {},
+  "attributes": {
+    "Text": {
+      "type": "string"
+    },
+    "Content": {
+      "type": "richtext"
+    }
+  }
+}

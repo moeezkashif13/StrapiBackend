@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_subcategories_subcategories",
+  "info": {
+    "displayName": "Subcategories"
+  },
+  "options": {},
+  "attributes": {
+    "Subcategories": {
+      "type": "string",
+      "minLength": 10
+    }
+  }
+}
